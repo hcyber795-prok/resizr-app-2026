@@ -1,4 +1,4 @@
-[index.html.txt](https://github.com/user-attachments/files/31869736/index.html.txt)
+[index.html](https://github.com/user-attachments/files/31869736/index.html.txt)
 # resizr-app-2026
 free image resizer
 <!DOCTYPE html>
